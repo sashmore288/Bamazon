@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework" ,
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashmore288/bamazon.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "adm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashmore288/bamazon/issues"
+  },
+  "homepage": "https://github.com/sashmore288/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
